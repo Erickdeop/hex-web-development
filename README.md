@@ -1,1 +1,1 @@
-# hex-web-development
+Hex Web Development relative files and projects
